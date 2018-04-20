@@ -34,4 +34,7 @@ These are the main ones but if you want to put more in it is up to you.
 
 **11. Discord ToS**: Your server should follow all aspects of Discord's ToS for example banning DM Advertisers and Spammers. Your server should also follow the ToS by labling channels if they are NSFW and other things that are said in the ToS. 
 
+
+**12. Staff/Secret Channels**: You should have seperate channels for bot commands so your main channel does not get clogged up. You should also have a staff chat where you can talk to your staff about server related business.
+
 If you have any suggestions or change for this guide please make a pull request. 
