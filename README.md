@@ -33,3 +33,5 @@ These are the main ones but if you want to put more in it is up to you.
 
 
 **11. Discord ToS**: Your server should follow all aspects of Discord's ToS for example banning DM Advertisers and Spammers. Your server should also follow the ToS by labling channels if they are NSFW and other things that are said in the ToS. 
+
+If you have any suggestions or change for this guide please make a pull request. 
