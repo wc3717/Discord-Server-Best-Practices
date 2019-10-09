@@ -35,6 +35,10 @@ These are the main ones but if you want to put more in it is up to you.
 **11. Discord ToS**: Your server should follow all aspects of Discord's ToS for example banning DM Advertisers and Spammers. Your server should also follow the ToS by labling channels if they are NSFW and other things that are said in the ToS. 
 
 
-**12. Staff/Secret Channels**: You should have seperate channels for bot commands so your main channel does not get clogged up. You should also have a staff chat where you can talk to your staff about server related business.
+**12. Staff/Secret Channels**: You should have seperate channels for bot commands so your main channel does not get clogged up. You should also have a staff chat where you can talk to your staff about server related business. Sometimes it can also be better if you set up a seperate staff server for your staff, this is especially handy if you have a main server which has a lot of channels.
+
+**13. Partnership Categories**: Partnerships are a great way to reach out to other related servers, it is useful to have a category for partnerships which includes a partnership requirements channel, a small partners channel, a medium partners channel and a large partners channel. 
+
+**14. Channel Navigation Channel**: The purpose of this channel is to help new members navigate their way around your server. To make a channel navigation channel, all you need to do is list your channels which you have and give a short description of how they are to be used. It is also worth mentioning "Channels which require special roles are not shown" 
 
 If you have any suggestions or change for this guide please make a pull request. 
