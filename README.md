@@ -14,8 +14,8 @@ This guide contain best practices that should be incorporated on every public Di
 > • Your staff should be active in your server and should seem like a great role model to the rest of your members.
 
 
-**3. Information Categories**: Your server should have an information category that contains your servers most important channels - in read only mode.
-> • `Information/Welcome` - Used for information, for example the servers purpose and outside links as well as staff info.
+**3. Information Categories**: Your server should have an information category that contains your servers most important channels - in read only mode.\
+> • `Information/Welcome` - Used for information, for example the servers purpose and outside links as well as staff info.\
 > • `Rules` - A list of rules that are to be followed in your server. This channel should be set as your server's [rules channel](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server#:~:text=how%20to%20enable%20your%20community%20server) if your server is a [Community Server](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server).\
 > • `Announcements` - Used to display important updates in your server (such as if a new policy is being enforced or a general announcement). If your server is a [Community Server](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server), you can [turn on the announcement channel feature](https://support.discord.com/hc/en-us/articles/360032008192-Announcement-Channels-).\
 > • These are standard channels usually found in an information category, but you can tweak these for your server as you wish.
